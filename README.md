@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phạm Huỳnh Anh
 - 👀 I’m interested in sourcecode development
-- 🌱 I’m currently learning Trung Học Phổ Thông (Lớp 10)
+- 🌱 I’m currently learning THPT
 - 📫 How to reach me Discord @pham_huynh_anh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I don't understand Vietnamese :D
